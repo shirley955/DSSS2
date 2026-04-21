@@ -4,7 +4,7 @@ This branch contains the final coursework files for the CASA0006 / DSSS2 assignm
 
 ## Main notebook
 
-- `CASA0006_complete_assignment_2021.ipynb`
+- `CASA0006_complete_assignment.ipynb`
 
 ## Data files used by the notebook
 
